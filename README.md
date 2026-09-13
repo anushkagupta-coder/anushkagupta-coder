@@ -1,5 +1,5 @@
 <div align="center">
-
+<img src="https://raw.githubusercontent.com/anushkagupta-coder/anushkagupta-coder/main/assets/github_1.png" width="330" alt="Anushka">
 <br>
 
 # 🌷 Hi, I'm Anushka Gupta! 🌷
