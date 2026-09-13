@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./assets/github.png" width="330" alt="Anushka">
-
 <br>
 
 # 🌷 Hi, I'm Anushka Gupta! 🌷
