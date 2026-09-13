@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/portrait.png" width="330" alt="Anushka">
+<img src="./assets/github.png" width="330" alt="Anushka">
 
 <br>
 
