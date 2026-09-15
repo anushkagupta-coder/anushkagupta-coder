@@ -1,20 +1,35 @@
 <div align="center">
+
 <br>
+
+<!-- ===================== HEADER ===================== -->
+
+<img src="https://raw.githubusercontent.com/anushkagupta-coder/anushkagupta-coder/main/assets/github_1.png"
+     width="300"
+     alt="Anushka">
 
 # 🌷 Hi, I'm Anushka Gupta! 🌷
 
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=22&duration=2500&pause=900&color=D96C9B&center=true&vCenter=true&width=800&lines=Computer+Science+Student+%F0%9F%8E%80;Full-Stack+Developer+%F0%9F%92%BB;Generative+AI+%26+RAG+Enthusiast+%F0%9F%A4%96;Building+ideas+into+real+things+%E2%9C%A8" alt="Typing animation">
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=22&duration=2500&pause=900&color=D96C9B&center=true&vCenter=true&width=800&lines=Computer+Science+Student+%F0%9F%8E%80;Full-Stack+Developer+%F0%9F%92%BB;Generative+AI+%26+RAG+Enthusiast+%F0%9F%A4%96;Building+ideas+into+real+things+%E2%9C%A8"
+     alt="Typing animation">
 
 🌸 <i>building, learning & occasionally breaking things</i> 🌸
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-8B6F9E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anushkagupta-coder)
-[![LeetCode](https://img.shields.io/badge/LeetCode-D98BA3?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/anushkagupta123/)
+<a href="https://github.com/anushkagupta-coder">
+<img src="https://img.shields.io/badge/GitHub-8B6F9E?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://leetcode.com/u/anushkagupta123/">
+<img src="https://img.shields.io/badge/LeetCode-D98BA3?style=for-the-badge&logo=leetcode&logoColor=white">
+</a>
 
 </div>
 
 ---
+
+<!-- ===================== ABOUT ME ===================== -->
 
 <div align="center">
 
@@ -35,25 +50,29 @@
 
 ---
 
+<!-- ===================== TOOLBOX ===================== -->
+
 <div align="center">
 
 ## 🎀 My Little Toolbox
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,sql" />
+<img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,sql">
 
 ### 🌐 Frontend & Backend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,spring,nodejs,fastapi" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,spring,nodejs,fastapi">
 
 ### 🗄️ Databases & Tools
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,git,postman" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,git,postman">
 
 </div>
 
 ---
+
+<!-- ===================== AI ===================== -->
 
 <div align="center">
 
@@ -71,6 +90,8 @@
 
 ---
 
+<!-- ===================== FEATURED PROJECTS ===================== -->
+
 <div align="center">
 
 ## 🚀 things i've built
@@ -79,7 +100,8 @@
 
 <table>
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 ### 🚨 Emergency Response Platform
 
@@ -92,7 +114,7 @@ An AI-assisted emergency response system for incident triage, resource allocatio
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ⚖️ Code Verdict
 
@@ -102,11 +124,19 @@ A full-stack coding platform with AI-powered code evaluation, complexity analysi
 `Next.js` `React` `Supabase`  
 `Gemini AI` `Tailwind CSS` `Vercel`
 
+<br>
+
+<a href="https://github.com/anushkagupta-coder/code-verdict">
+<img src="https://img.shields.io/badge/View_Project-D96C9B?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
 </td>
+
 </tr>
 
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 ### 📚 LearnFlow
 
@@ -118,38 +148,244 @@ A RAG-based learning assistant that works with PDFs and provides contextual Q&A,
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎮 More projects
+### 💡 What I Like Building
 
-I love experimenting with AI, full-stack development and creative ideas.
+I enjoy building applications where:
 
-Check out my repositories to see what I'm currently building. ✨
-
-<br>
-
-<a href="https://github.com/anushkagupta-coder?tab=repositories">
-<img src="https://img.shields.io/badge/Explore_My_Projects-D96C9B?style=for-the-badge&logo=github&logoColor=white">
-</a>
+🤖 AI solves a real problem  
+💻 Backend logic powers the system  
+🎨 UI makes it easy to use  
+✨ Everything comes together into a usable product
 
 </td>
+
 </tr>
 </table>
 
 ---
 
+<!-- ===================== ALL REPOSITORIES ===================== -->
+
 <div align="center">
 
-## 🌱 currently working on
+## 📚 my little project shelf
+
+<i>projects, experiments & things i've built while learning 🌷</i>
+
+</div>
+
+<br>
+
+<table align="center">
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🤖 AI / Machine Learning
+
+🔹 **[RAG-based-AI-Study-Assistant](https://github.com/anushkagupta-coder/RAG-based-AI-Study-Assistant)**  
+`Python` · `RAG` · `AI`
+
+🔹 **[Basic ML](https://github.com/anushkagupta-coder/Basic-ML)**  
+`Python` · `Machine Learning`
+
+🔹 **[EdgeAi_RockPaperGame](https://github.com/anushkagupta-coder/EdgeAi_RockPaperGame)**  
+`Python` · `MediaPipe` · `OpenCV`
+
+🔹 **[Edge_AI](https://github.com/anushkagupta-coder/Edge_AI)**  
+`Python` · `Edge AI`
+
+🔹 **[Resale-Liquidity-Engine](https://github.com/anushkagupta-coder/Resale-Liquidity-Engine)**  
+`Python` · Data-driven valuation & liquidity
+
+</td>
+
+<td width="50%" valign="top">
+
+### ☕ Java & Backend
+
+🔹 **[student-management_using_Springboot](https://github.com/anushkagupta-coder/student-management_using_Springboot)**  
+`Java` · `Spring Boot`
+
+🔹 **[DSA](https://github.com/anushkagupta-coder/DSA)**  
+`Java` · Data Structures & Algorithms
+
+🔹 **[OOP-in-java](https://github.com/anushkagupta-coder/OOP-in-java)**  
+`Java` · Object-Oriented Programming
+
+🔹 **[practise](https://github.com/anushkagupta-coder/practise)**  
+`Java` · Practice
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🌐 Full Stack & Web
+
+🔹 **[code-verdict](https://github.com/anushkagupta-coder/code-verdict)**  
+`Next.js` · `React` · `AI`
+
+🔹 **[Portfolio](https://github.com/anushkagupta-coder/Portfolio)**  
+`React` · `Express`
+
+🔹 **[Restaurant-booking](https://github.com/anushkagupta-coder/Restaurant-booking)**  
+`CSS` · Web Development
+
+🔹 **[MERN](https://github.com/anushkagupta-coder/MERN)**  
+`MERN Stack`
+
+🔹 **[ChatApp](https://github.com/anushkagupta-coder/ChatApp)**  
+`JavaScript` · Chat Application
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧪 Experiments & Learning
+
+🔹 **[Coding-savy-internship](https://github.com/anushkagupta-coder/Coding-savy-internship)**  
+`JavaScript` · Internship Projects
+
+🔹 **[PROJECTS](https://github.com/anushkagupta-coder/PROJECTS)**  
+`JavaScript` · Experiments
+
+🔹 **[Website-using-JS-React-](https://github.com/anushkagupta-coder/Website-using-JS-React-)**  
+`JavaScript` · `React`
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/anushkagupta-coder?tab=repositories">
+<img src="https://img.shields.io/badge/✨_Explore_All_Repositories-D96C9B?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
+
+---
+<!-- ===================== GITHUB ===================== -->
+
+<div align="center">
+
+## 📊 my GitHub journey
+
+<br>
+
+🌷 <b>25+ repositories</b> · 💻 <b>Full-Stack</b> · 🤖 <b>AI / ML</b> · ☕ <b>Java</b>
+
+<br><br>
+
+<a href="https://github.com/anushkagupta-coder?tab=repositories">
+<img src="https://img.shields.io/badge/🌸_View_My_Repositories-D96C9B?style=for-the-badge">
+</a>
+
+</div>
+
+---
+
+<!-- ===================== CURRENTLY LEARNING ===================== -->
+
+<div align="center">
+
+## 🌱 currently learning
+
+<br>
+
+`System Design` ·
+`Advanced Spring Boot` ·
+`Docker` ·
+`DevOps` ·
+`AI Agents` ·
+`RAG` ·
+`Generative AI`
+
+<br><br>
 
 🌷 Building cool AI products  
 💻 Exploring new technologies  
-🤖 Learning more about Generative AI & RAG  
+🤖 Learning more about intelligent applications  
 ✨ Turning ideas into real projects
 
 </div>
 
 ---
+
+<!-- ===================== WHAT I BUILD ===================== -->
+
+<div align="center">
+
+## 💭 what i like building
+
+<table>
+<tr>
+
+<td>
+
+🤖 **AI Applications**
+
+<br>
+
+RAG systems, AI assistants & intelligent tools
+
+</td>
+
+<td>
+
+💻 **Full-Stack Systems**
+
+<br>
+
+Frontend + backend + databases + deployment
+
+</td>
+
+<td>
+
+🧠 **Problem Solving**
+
+<br>
+
+DSA, system design & practical engineering
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- ===================== PHILOSOPHY ===================== -->
+
+<div align="center">
+
+## 💗 developer philosophy
+
+> ✨ <i>building things, breaking things, learning why they broke, and building them better.</i> ✨
+
+🌷 ───────────────────────────── 🌷
+
+<i>made with curiosity, caffeine & way too many tabs</i> ☕💗
+
+</div>
+
+---
+
+<!-- ===================== CONNECT ===================== -->
 
 <div align="center">
 
@@ -169,16 +405,12 @@ Check out my repositories to see what I'm currently building. ✨
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-### 🎀 a tiny reminder
+### 🎀 thanks for stopping by!
 
-> ✨ *building things that make a difference* ✨
-
-🌷 ───────────────────────────── 🌷
-
-<i>made with curiosity, caffeine & way too many tabs</i> ☕💗
+🌷 <i>keep building. keep learning. keep creating.</i> 🌷
 
 </div>
